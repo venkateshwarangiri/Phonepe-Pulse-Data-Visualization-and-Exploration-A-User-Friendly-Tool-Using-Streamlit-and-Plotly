@@ -1,0 +1,10 @@
+git
+os
+pandas
+json
+requests
+mysql.connector
+matplotlib
+plotly
+streamlit
+streamlit_option_menu
